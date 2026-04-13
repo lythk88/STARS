@@ -4,7 +4,7 @@ This repository contains the official implementation of the ICLR 2026 paper:
 
 > **[ICLR 2026] Exploring Diverse Generation Paths via Inference-time Stiefel Activation Steering**
 
-We introduce **STAR** (**St**iefel-based **A**ctivation Steering for Diverse **R**easoning), a method to enhance diversity in reasoning processes during inference.
+We introduce **STARS** (**St**iefel-based **A**ctivation Steering for Diverse **R**ea**s**oning), a method to enhance diversity in reasoning processes during inference.
 
 ---
 
@@ -69,7 +69,7 @@ python liveideabench/steering.py
 * **TestEval**: Test case generation benchmark.
 * **LiveIdeaBench**: Scientific discovery benchmark.
 
-Each benchmark evaluates the diversity and correctness of reasoning paths under baseline sampling and STAR steering.
+Each benchmark evaluates the diversity and correctness of reasoning paths under baseline sampling and STARS steering.
 
 ---
 
