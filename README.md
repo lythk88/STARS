@@ -3,6 +3,7 @@
 This repository contains the official implementation of the ICLR 2026 paper:
 
 > **[ICLR 2026] Exploring Diverse Generation Paths via Inference-time Stiefel Activation Steering**
+
 We introduce **STAR** (**St**iefel-based **A**ctivation Steering for Diverse **R**easoning), a method to enhance diversity in reasoning processes during inference.
 
 ---
