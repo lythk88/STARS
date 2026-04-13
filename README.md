@@ -78,7 +78,7 @@ Each benchmark evaluates the diversity and correctness of reasoning paths under 
 ```bibtex
 @inproceedings{zhu2026stars,
   title     = {Exploring Diverse Generation Paths via Inference-time Stiefel Activation Steering},
-  author    = {Zhu, Dongxuan and Ho Khanh, Ly Tran and Cheung, Andy Yat-Ming and Yue, Man-Chung and Nguyen, Viet Anh},
+  author    = {Dongxuan Zhu and Ly Tran Ho Khanh and Andy Yat-Ming Cheung and Man-Chung Yue and Viet Anh Nguyen},
   booktitle = {International Conference on Learning Representations (ICLR)},
   year      = {2026},
   url       = {https://arxiv.org/abs/2601.22010},
