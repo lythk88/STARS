@@ -1,6 +1,8 @@
 # Exploring Diverse Generation Paths via Inference-time Stiefel Activation Steering
 
+This repository contains the official implementation of the ICLR 2026 paper:
 
+> **[ICLR 2026] Exploring Diverse Generation Paths via Inference-time Stiefel Activation Steering**
 We introduce **STAR** (**St**iefel-based **A**ctivation Steering for Diverse **R**easoning), a method to enhance diversity in reasoning processes during inference.
 
 ---
@@ -69,5 +71,24 @@ python liveideabench/steering.py
 Each benchmark evaluates the diversity and correctness of reasoning paths under baseline sampling and STAR steering.
 
 ---
+
+## Citation
+
+```bibtex
+@inproceedings{zhu2026stars,
+  title     = {Exploring Diverse Generation Paths via Inference-time Stiefel Activation Steering},
+  author    = {Zhu, Dongxuan and Ho Khanh, Ly Tran and Cheung, Andy Yat-Ming and Yue, Man-Chung and Nguyen, Viet Anh},
+  booktitle = {International Conference on Learning Representations (ICLR)},
+  year      = {2026},
+  url       = {https://arxiv.org/abs/2601.22010},
+}
+```
+
+---
+
+## Contact
+
+Please open a GitHub issue for questions or discussions.
+
 
 
